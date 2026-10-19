@@ -4,7 +4,7 @@
 
 Created by **Ryan Noorbakhsh**.
 
-**Live app:** https://USERNAME.github.io/mode-shift/
+**Live app:** https://ryannoor41.github.io/mode-shift/
 
 ## The styles
 
